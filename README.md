@@ -1,2 +1,2 @@
 # CI2024_lab1
-Lab 1 computational intelligence, set cover problem solution with stochastic hill climbin
+During this lab i worked with Riccardo Scanu, s331482.
